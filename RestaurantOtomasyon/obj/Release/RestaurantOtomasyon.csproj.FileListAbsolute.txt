@@ -1,0 +1,15 @@
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\bin\Release\RestaurantOtomasyon.exe.config
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\bin\Release\RestaurantOtomasyon.exe
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\bin\Release\RestaurantOtomasyon.pdb
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.frmGiris.resources
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.frmHesapOde.resources
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.frmMasalar.resources
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.frmMenu.resources
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.frmSiparis.resources
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.frmUrun.resources
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.Properties.Resources.resources
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.exe
+C:\Users\Sefa\Desktop\RestaurantOtomasyon\RestaurantOtomasyon\obj\Release\RestaurantOtomasyon.pdb
